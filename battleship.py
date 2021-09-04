@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  3 21:48:28 2021
-
-@author: admin
-"""
-
 ### This is part of Codecademy coding challenge
 ### Battleship with Python3 (single player version)
 import random
